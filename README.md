@@ -25,13 +25,13 @@ How to use it
 It is suggested that you read through the `normalize.sass` file and customise it to meet the design requirements of a project, rather blindly including it as a "black box".
 
 Generate the sass with:
-```sass normalize.sass > normalize.css
+```sass normalize.sass > normalize.css```
 
 Alternatively, generate and minify:
-```sass -t compressed normalize.sass > normalize.css
+```sass -t compressed normalize.sass > normalize.css```
 
 Prefer SCSS syntax?
-```sass-convert normalize.sass normalize.scss
+```sass-convert normalize.sass normalize.scss```
 
 Browser support
 -----------
