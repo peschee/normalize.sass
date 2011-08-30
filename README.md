@@ -3,7 +3,7 @@ normalize.css
 
 Normalize.css is a customisable CSS file that makes browsers render all elements more consistently and in line with modern standards. We researched the differences between default browser styles in order to precisely target only the styles that need normalizing.
 
-[Check out the demo](http://shkm.github.com/normalize.css/demo.html)
+[Check out the demo](http://shkm.github.com/normalize.sass/demo.html)
 
 normalize.sass
 --------------
